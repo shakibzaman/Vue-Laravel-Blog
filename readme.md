@@ -10,6 +10,7 @@ Key Point
 * Axios and Ajax Request (Passing request for fetch and crud operation)
 * Use Moment js on Laravel (Used for formating date time)
 * Use sweetalert2 (Used for flash message)
+# Run this project
 <article class="markdown-body entry-content" itemprop="text">
   
   <li> Clone the repository with git clone </li>
